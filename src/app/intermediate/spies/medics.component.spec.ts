@@ -1,6 +1,5 @@
 import { MedicsComponent } from './medics.component';
 import { MedicsService } from './medics.service';
-import { Observable } from 'rxjs';
 import { of, empty, throwError } from 'rxjs';
 
 
